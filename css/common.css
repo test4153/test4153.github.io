@@ -1,0 +1,92 @@
+html, body {
+    background-color: cornsilk;
+}
+
+.square {
+    padding: 50px;
+    border: white solid 5px;
+}
+
+.label {
+    width: 120px;
+}
+
+.name {
+    font-size: 30px;
+    color: teal;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.description {
+    font-size: 18px;
+    font-style: italic;
+    color: sienna;
+    margin-top: 5px;
+}
+
+.title {
+    margin-top: 5px;
+    font-size: 24px;
+    font-style: italic;
+}
+
+.title>h3 {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color: teal;
+}
+
+.title>p {
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: sienna;
+}
+
+.title>p>span {
+    margin-left: 20px;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: normal;
+    color: teal;
+}
+
+.division {
+    border: silver solid 1px;
+    margin: 0;
+    padding: 0;
+}
+
+.News {
+    margin-top: 60px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color: teal;
+}
+
+#News ol {
+    margin-top: 20px;
+}
+
+#News li {
+    margin-left: 20px;
+    padding: 5px 0px;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+    color: sienna;
+    border-bottom: teal solid 1px;
+}
+
+.Footer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px 0px;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+    color: silver;
+}
